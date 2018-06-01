@@ -1,5 +1,5 @@
 # Roger Avery - Senior Software Developer
-> "I love creating with code. A passion for forging solutions and adopting innovative approaches to engineering keeps me pushing forward in a field of constant discovery. Projects are resuscitated with my optimistic energy, and kept on track with personable leadership. I generate smooth, agile systems with an organic overtone"
+> "I've always held the mindset if it can be thought, it can be done. I love creating with code. A passion for forging solutions and adopting innovative approaches to engineering keeps me pushing forward in a field of constant discovery. Projects are resuscitated with my optimistic energy, and kept on track with personable leadership. I generate smooth, agile systems with an organic overtone"
 >
 ---
 ## Libs, Frameworks
@@ -16,7 +16,8 @@
 - visual studio - sublime text
 - android studio - perforce
 - corona - git - svn - cocos studio
-- cocos creator - unreal engine - jira
+- cocos creator - engine - jira
+---
 ## Languages
 - c++ - c - c# - coffeescript -
 - actionscript 1/2/3 - typescript
@@ -53,7 +54,7 @@ Boston MA
 - Lead team of two programmers for 9-month project, delegating tasks, and synthesizing work in a clean format
 - Engineered robust user interface through slot-machine and spinner animations, and particle effects
 - Reduced application footprint by 98% through engineering highly efficient content download manager
-### KENO®
+### [KENO®](http://www.masslottery.com/games/keno.html)
 #### Lead Programmer - Massachusetts Lottery - Remote
 - Hunted down and worked with discontinued developer tools (adobe director, Lingo, ie6 browser) in windows xp virtual environment
 - Flawlessly worked with Keno backend team to render a smooth / secure upgrade pipeline for the ebb and flow client / server exchange.  
@@ -97,15 +98,21 @@ Associate Of Science
 Communications / Audio Engineering
 ---
 ## Noteworthy Projects
-- auction plumbs
-- [zen hopper](https://www.youtube.com/watch?v=94oxFpZ1t_M)
+
+- [zen hopper](http://part12studios.com/portfolio-items/zen-hopper/)
 - [dress peach](https://itunes.apple.com/us/app/dress-peach/id1134658090?ls=1&mt=8)
-- coca-cola calendar
-- health care university (created 10 html5 / ie6 compatible games)
-- witness shield
+- [coca-cola calendar](http://part12studios.com/portfolio-items/coca-cola-calendar/)
 - sluggo [ios](https://www.youtube.com/watch?v=StfYzlP301Y) /  [early flash on big fish games](http://games.bigfishgames.com/jp_sluggo/online/index.html)
 - [don't drop the hoop](https://itunes.apple.com/us/app/dont-drop-the-hoop/id976613465?ls=1&mt=8)
-- blackout
 - [klouds](http://www.addictinggames.com/puzzle-games/klouds.jsp)
 - [apples to apples flash game](http://www.mattelgames.com/en-us/family/apples-apples)
-- nascar slots
+- [bodyspell](https://www.youtube.com/watch?v=PQ0anX5f5V4)
+- blackout
+- auction plumbs
+- witness shield
+- centersource - health care university (created 10 html5 / ie6 compatible games)
+---
+## Contact Info
+>####14 Great Pines Drive, Shutesbury MA 01072  
+>####207.745.3120  
+>####[zanemx@gmail.com](mailto:zanemx@gmail.com)
