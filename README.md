@@ -1,5 +1,6 @@
 # Roger Avery - Senior Software Developer
-> ### "I've always held the mindset if it can be thought, it can be done. I love creating with code. A passion for forging solutions and adopting innovative approaches to engineering keeps me pushing forward in a field of constant discovery. Projects are resuscitated with my optimistic energy, and kept on track with personable leadership. I generate smooth, agile systems with an organic overtone"
+>"I've always held the mindset if it can be thought, it can be done. I love creating with code. A passion for forging solutions and adopting innovative approaches to engineering keeps me pushing forward in a field of constant discovery. Projects are resuscitated with my optimistic energy, and kept on track with personable leadership. I generate smooth, agile systems with an organic overtone"
+
 ---
 ## Libs, Frameworks
 - underscore - lodash - nodeJS - sailsJS - google app engine
@@ -7,8 +8,10 @@
 - jQueryUI - jQuery data tables - React - knockoutJS
 - backboneJS - easelJS - phaserJS - socketIO - npm
 - alexa - aws alex - cocos2d - cocos2d-x - starling - haxe
-- bootstrap - iot - aws - lambda - iam - xna - express
-- grunt - gulp - django - browserify - a* - cocopods - bower
+- iot - aws - lambda - iam - xna - express
+- grunt - gulp - django - bootstrap
+- browserify - a* - cocopods - bower
+
 ---
 ## Tools
 - xcode - unity - atom - code blocks
@@ -17,6 +20,7 @@
 - corona - git - svn - cocos studio
 - cocos creator - engine - jira
 - slack - trello - skype - amazon chime
+
 ---
 ## Languages
 - c++ - c - c# - coffeescript
@@ -24,10 +28,12 @@
 - python - bash - xml - json
 - objective-c - swift - haxe
 - lua - lingo - php - openGLES
+
 ---
 ## Published Platforms
 - android - ios - windows phone - windows 8/10
 - tizen - amazon market - steam - osx - chrome
+
 ---
 ## Recent Experience
 [Part12 Studios](http://part12studios.com) - 2007 to Present  
@@ -35,7 +41,8 @@ Lead Software Developer
 Boston MA
 - oversaw all corporate programming / engineering projects for 10+ years
 - responsible for creation, development, updates, support, leadership, and energizing of projects for clients and company
-- code reviews
+- ensure production ready via with multi stage deployment and code review process
+
 ---
 ## Featured Projects
 ### ALEXA® ECHO BUTTON GAMES - (2017)
@@ -128,6 +135,7 @@ Communications / Audio Engineering
 - relentless problem solver
 - plant based diet
 - fly fishermen
+
 ---
 ## Contact Info
 >#### 14 Great Pines Drive, Shutesbury MA 01072  
