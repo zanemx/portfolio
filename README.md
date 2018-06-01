@@ -1,12 +1,5 @@
 # Roger Avery - Senior Software Developer
-```cpp
-	std::count <<
-```
 > ### "I've always held the mindset if it can be thought, it can be done. I love creating with code. A passion for forging solutions and adopting innovative approaches to engineering keeps me pushing forward in a field of constant discovery. Projects are resuscitated with my optimistic energy, and kept on track with personable leadership. I generate smooth, agile systems with an organic overtone"
-
-```cpp
-	<< std::endl;
-```
 ---
 ## Libs, Frameworks
 - underscore - lodash - nodeJS - sailsJS - google app engine
@@ -26,7 +19,7 @@
 - slack - trello - skype - amazon chime
 ---
 ## Languages
-- c++ - c - c# - coffeescript -
+- c++ - c - c# - coffeescript
 - actionscript 1/2/3 - typescript
 - python - bash - xml - json
 - objective-c - swift - haxe
@@ -45,17 +38,17 @@ Boston MA
 - code reviews
 ---
 ## Featured Projects
-### ALEXA@ ECHO BUTTON GAMES - (2017)
-#### Lead Programmer - Amazon, LLC - Remote and Irvine, CA and Mobiquity Office Wilbram, MA
+### ALEXA® ECHO BUTTON GAMES - (2017)
+#### Lead Programmer - Amazon, LLC - Remote and Irvine, CA and Mobiquity Office Waltham, MA
 - developed voice-command driven games pre-release of [Echo Button Gadgets](https://www.amazon.com/Echo-Buttons-Alexa-Gadget-Pack/dp/B072C4KCQH)
-	- [Don't cut that wire](https://www.amazon.com/Amazon-Dont-Cut-That-Wire/dp/B077YBZ3NQ) - [The Mystery of Thorium Manor](https://www.amazon.com/The-Mystery-of-Thorium-Manor/dp/B079Z31GMS/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1527809672&sr=1-1&keywords=thorium+manor&dpID=71VMvBJGe8L&preST=_SY300_QL70_&dpSrc=srch) - [Rush Order](https://www.amazon.com/Amazon-Rush-Order/dp/B077Y94T55)
+	- [Don't Cut That Wire](https://www.amazon.com/Amazon-Dont-Cut-That-Wire/dp/B077YBZ3NQ) - [The Mystery of Thorium Manor](https://www.amazon.com/The-Mystery-of-Thorium-Manor/dp/B079Z31GMS/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1527809672&sr=1-1&keywords=thorium+manor&dpID=71VMvBJGe8L&preST=_SY300_QL70_&dpSrc=srch) - [Rush Order](https://www.amazon.com/Amazon-Rush-Order/dp/B077Y94T55)
 - oversaw team of two programmers with daily standups for five-month project
 - milestone oriented progress with tight deadlines
 - created preliminary, foundational documentation for programming Gadgets
 - streamlined voice-command, gameplay, and assets for both Echo and Show
 - improved user interface with creative SDK
 - engineered simulator to emulate Gadget behaviors, before team had access to hardware, which was implemented across the Amazon development team for project
-### [NASCAR@ SLOTS](https://itunes.apple.com/us/app/nascar-slots/id1067132728?mt=8)
+### [NASCAR® SLOTS](https://itunes.apple.com/us/app/nascar-slots/id1067132728?mt=8)
 #### Lead Programmer - [Funkitron](http://www.funkitron.com/) - Remote
 - guided development and programming of casino slot-machine game for iOS
 - lead team of two programmers for 9-month project, delegating tasks, and synthesizing work in a clean format
@@ -84,7 +77,7 @@ Boston MA
 - created time sensitive adhoc auth keys for simple client / host connection
 ### [TRIBE](tribedatingapp.com)
 #### Lead Programmer - Ackerdating, LLC - Remote
-- engineered Jewish dating application for iOS add something else
+- engineered Jewish dating application for iOS
 - utilized Parse.com backend lib in objective-c. We found using parse to be an incredible time saver for startups / prototyping
 - churned out dating app similar to match in a matter of months. MVP was sound and bug free
 - created custom algorithms for optimized user experience with a focus on compatibility
