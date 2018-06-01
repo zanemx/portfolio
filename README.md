@@ -18,7 +18,7 @@
 - visual studio - sublime text
 - android studio - perforce
 - corona - git - svn - cocos studio
-- cocos creator - engine - jira
+- cocos creator - engine - jira - texture packer
 - slack - trello - skype - amazon chime
 
 ---
@@ -118,7 +118,6 @@ Communications / Audio Engineering
 - [cocomatch (early prototype)](http://part12studios.com/trunk/games/cocomatch/)
 - blackout
 - auction plumbs
-- witness shield
 
 ---
 ## Other Things
