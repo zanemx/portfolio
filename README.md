@@ -41,7 +41,7 @@ Lead Software Developer
 Boston MA
 - oversaw all corporate programming / engineering projects for 10+ years
 - responsible for creation, development, updates, support, leadership, and energizing of projects for clients and company
-- ensure production ready via with multi stage deployment and code review process
+- ensure production ready via multi stage deployment and code review process
 
 ---
 ## Featured Projects
