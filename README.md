@@ -46,7 +46,7 @@ Boston MA
 ---
 ## Featured Projects
 ### ALEXA® ECHO BUTTON GAMES - (2017)
-#### Lead Programmer - Amazon, LLC - Remote and Irvine, CA and Mobiquity Office Waltham, MA
+#### Lead Programmer - Amazon, LLC - Remote and Irvine, CA and [Mobiquity](https://www.mobiquityinc.com/) Office Waltham, MA
 - developed voice-command driven games pre-release of [Echo Button Gadgets](https://www.amazon.com/Echo-Buttons-Alexa-Gadget-Pack/dp/B072C4KCQH)
 	- [Don't Cut That Wire](https://www.amazon.com/Amazon-Dont-Cut-That-Wire/dp/B077YBZ3NQ) - [The Mystery of Thorium Manor](https://www.amazon.com/The-Mystery-of-Thorium-Manor/dp/B079Z31GMS/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1527809672&sr=1-1&keywords=thorium+manor&dpID=71VMvBJGe8L&preST=_SY300_QL70_&dpSrc=srch) - [Rush Order](https://www.amazon.com/Amazon-Rush-Order/dp/B077Y94T55)
 - oversaw team of two programmers with daily standups for five-month project
@@ -58,7 +58,7 @@ Boston MA
 ### [NASCAR® SLOTS](https://itunes.apple.com/us/app/nascar-slots/id1067132728?mt=8)
 #### Lead Programmer - [Funkitron](http://www.funkitron.com/) - Remote
 - guided development and programming of casino slot-machine game for iOS
-- lead team of two programmers for 9-month project, delegating tasks, and synthesizing work in a clean format
+- led team of two programmers for 9-month project, delegating tasks, and synthesizing work in a clean format
 - engineered robust user interface through slot-machine and spinner animations, and particle effects
 - reduced application footprint by 98% through engineering highly efficient content download manager
 ### [KENO®](http://www.masslottery.com/games/keno.html)
