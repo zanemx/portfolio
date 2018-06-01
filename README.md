@@ -23,13 +23,14 @@
 - android studio - perforce
 - corona - git - svn - cocos studio
 - cocos creator - engine - jira
+- slack - trello - skype - amazon chime
 ---
 ## Languages
 - c++ - c - c# - coffeescript -
 - actionscript 1/2/3 - typescript
 - python - bash - xml - json
 - objective-c - swift - haxe
-- lua - lingo - php
+- lua - lingo - php - openGLES
 ---
 ## Published Platforms
 - android - ios - windows phone - windows 8/10
@@ -112,10 +113,13 @@ Communications / Audio Engineering
 - [klouds](http://www.addictinggames.com/puzzle-games/klouds.jsp)
 - [apples to apples flash game](http://www.mattelgames.com/en-us/family/apples-apples)
 - [bodyspell](https://www.youtube.com/watch?v=PQ0anX5f5V4)
+- [antibody](http://part12studios.com/trunk/games/antibody/Antibody.html)
+- [centersource - health care university (created 10 html5 / ie6 compatible games)](http://part12studios.com/trunk/games/centersource/development/)
+- [cocomatch (early prototype)](http://part12studios.com/trunk/games/cocomatch/)
 - blackout
 - auction plumbs
 - witness shield
-- centersource - health care university (created 10 html5 / ie6 compatible games)
+
 ---
 ## Other Things
 - brown belt in Wado Ryu karate
