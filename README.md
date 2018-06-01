@@ -113,6 +113,6 @@ Communications / Audio Engineering
 - centersource - health care university (created 10 html5 / ie6 compatible games)
 ---
 ## Contact Info
->####14 Great Pines Drive, Shutesbury MA 01072  
->####207.745.3120  
->####[zanemx@gmail.com](mailto:zanemx@gmail.com)
+>#### 14 Great Pines Drive, Shutesbury MA 01072  
+>#### 207.745.3120  
+>#### [zanemx@gmail.com](mailto:zanemx@gmail.com)
