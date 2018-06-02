@@ -63,7 +63,7 @@ Boston MA
 - reduced application footprint by 98% through engineering highly efficient content download manager
 ### [KENO®](http://www.masslottery.com/games/keno.html)
 #### Lead Programmer - Massachusetts Lottery - Remote
-- hunted down and worked with discontinued developer tools (adobe director, Lingo, ie6 browser) in windows xp virtual environment
+- worked with discontinued developer tools (adobe director, Lingo, ie6 browser) in windows xp virtual environment
 - flawlessly worked with Keno backend team to render a smooth / secure upgrade pipeline for the ebb and flow client / server exchange.  
 - Some of the screens keno is played on are old. Older than flash. Creating the animations on my new age monitor was problematic in that the resolution was drastically different than an old CRT monitor. I had to apply a skewing factor to all animations to render them properly.
 ### [MEDIABREAKER STUDIO](mbstudios.thelamp.org)		          
