@@ -9,13 +9,13 @@
 - backboneJS - easelJS - phaserJS - socketIO - npm
 - alexa - aws alex - cocos2d - cocos2d-x - starling - haxe
 - iot - aws - lambda - iam - xna - express
-- grunt - gulp - django - bootstrap
+- grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower
 
 ---
 ## Tools
 - xcode - unity - atom - code blocks
-- visual studio - sublime text
+- visual studio - sublime text - tiled
 - android studio - perforce
 - corona - git - svn - cocos studio
 - cocos creator - engine - jira - texture packer
@@ -123,6 +123,7 @@ Communications / Audio Engineering
 ## Other Things
 - brown belt in Wado Ryu karate
 - 10 year professional musician Nashville, TN
+- guitar freak
 - max level toons in all flavors of World Of Warcraft
 - played vanilla wow and liked it
 - super mario bros extraordinaire
