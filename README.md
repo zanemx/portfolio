@@ -65,13 +65,13 @@ Boston MA
 #### Lead Programmer - Massachusetts Lottery - Remote
 - hunted down and worked with discontinued developer tools (adobe director, Lingo, ie6 browser) in windows xp virtual environment
 - flawlessly worked with Keno backend team to render a smooth / secure upgrade pipeline for the ebb and flow client / server exchange.  
-- key Achievement: Some of the screens keno is played on are old. Older than flash. Creating the animations on my new age monitor was problematic in that the resolution was drastically different than an old CRT monitor. I had to apply a skewing factor to all animations to render them properly.
+- Some of the screens keno is played on are old. Older than flash. Creating the animations on my new age monitor was problematic in that the resolution was drastically different than an old CRT monitor. I had to apply a skewing factor to all animations to render them properly.
 ### [MEDIABREAKER STUDIO](mbstudios.thelamp.org)		          
 #### Lead Programmer - The Lamp - Remote
 - built for smooth integration into existing tech
 - advanced custom HTML5 video controls
 - designed sleek meme editor / generator in html5/javascript email compatible
-- key Achievement: Designed single page app compatible with browser back / forward buttons to navigate site while persisting data via local storage.
+- Designed single page app compatible with browser back / forward buttons to navigate site while persisting data via local storage.
 ### [GAMERFAME](crunchbase.com/organization/gamerfame)
 #### Backend Programmer - GamerFame, Inc - Remote
 - engineered gaming platform that included daily challenges through which players win cash via their mad gaming skills
