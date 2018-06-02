@@ -8,7 +8,7 @@
 - jQueryUI - jQuery data tables - React - knockoutJS
 - backboneJS - easelJS - phaserJS - socketIO - npm
 - alexa - aws alex - cocos2d - cocos2d-x - starling - haxe
-- iot - aws - lambda - iam - xna - express
+- iot - aws - lambda - iam - xna - express - markdown
 - grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower
 
