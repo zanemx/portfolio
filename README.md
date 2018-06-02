@@ -10,7 +10,7 @@
 - alexa - aws alex - cocos2d - cocos2d-x - starling - haxe
 - iot - aws - lambda - iam - xna - express - markdown
 - grunt - gulp - django - bootstrap - heroku
-- browserify - a* - cocopods - bower
+- browserify - a* - cocopods - bower - air
 
 ---
 ## Tools
@@ -97,6 +97,13 @@ Boston MA
 - rehashed 10+ yo flash game for use in gutted shinobi cabinet
 - used AutoHotKey to force flash file to go full screen on boot
 - helped engineered hardware to interface with pc
+### [Coca-Cola Calendar](http://part12studios.com/portfolio-items/coca-cola-calendar/)
+#### Lead Programmer - [Lucky Fish Games](https://luckyfishgames.com/) - Remote - On Site
+- created with new tech at the time, Adobe Air
+- loaded large resolution video files with transparent pixels
+- cleanly integrated 3rd party calendar plugin
+- sync with iCal
+- ran in background on pc / mac with popup alerts.
 
 ---
 ## Education
