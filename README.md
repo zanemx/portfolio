@@ -11,6 +11,8 @@
 - iot - aws - lambda - iam - xna - express - markdown
 - grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower - air
+- google analytics - gameanalytics - flurry
+- many other 3rd party libs
 
 ---
 ## Tools
@@ -19,7 +21,7 @@
 - android studio - perforce
 - corona - git - svn - cocos studio
 - cocos creator - engine - jira - texture packer
-- slack - trello - skype - amazon chime
+- slack - trello - skype - amazon chime - linux
 
 ---
 ## Languages
