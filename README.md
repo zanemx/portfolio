@@ -27,9 +27,10 @@
 ## Languages
 - c++ - c - c# - coffeescript
 - actionscript 1/2/3 - typescript
-- python - bash - xml - json
+- python - bash - ssh - xml - json
 - objective-c - swift - haxe
 - lua - lingo - php - openGLES
+- html - html5 - xhtml
 
 ---
 ## Published Platforms
