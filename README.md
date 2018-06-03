@@ -3,7 +3,7 @@
 
 ---
 ## Libs, Frameworks
-- underscore - lodash - nodeJS - sailsJS - google app engine
+- underscore - lodash - nodeJS - sailsJS - Google app engine
 - mongoose - mongoDB - angularJS - emberJS - jQuery
 - jQueryUI - jQuery data tables - React - knockoutJS
 - backboneJS - easelJS - phaserJS - socketIO - npm
@@ -11,7 +11,7 @@
 - iot - aws - lambda - iam - xna - express - markdown
 - grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower - air
-- google analytics - gameanalytics - flurry
+- Google analytics - gameanalytics - flurry
 - many other 3rd party libs
 
 ---
@@ -21,21 +21,21 @@
 - android studio - perforce
 - corona - git - svn - cocos studio
 - cocos creator - engine - jira - texture packer
-- slack - trello - skype - amazon chime - linux
+- slack - trello - skype - Amazon chime - linux
 
 ---
 ## Languages
 - c++ - c - c# - coffeescript
 - actionscript 1/2/3 - typescript
 - python - bash - ssh - xml - json
-- objective-c - swift - haxe
+- objective-c - swift - haxe - java
 - lua - lingo - php - openGLES
 - html - html5 - xhtml
 
 ---
 ## Published Platforms
 - android - ios - windows phone - windows 8/10
-- tizen - amazon market - steam - osx - chrome
+- tizen - Amazon market - steam - osx - chrome
 
 ---
 ## Recent Experience
@@ -74,7 +74,7 @@ Boston MA
 - built for smooth integration into existing tech
 - advanced custom HTML5 video controls
 - designed sleek meme editor / generator in html5/javascript email compatible
-- Designed single page app compatible with browser back / forward buttons to navigate site while persisting data via local storage.
+- designed single page app compatible with browser back / forward buttons to navigate site while persisting data via local storage.
 ### [GAMERFAME](crunchbase.com/organization/gamerfame)
 #### Backend Programmer - GamerFame, Inc - Remote
 - engineered gaming platform that included daily challenges through which players win cash via their mad gaming skills
