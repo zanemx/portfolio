@@ -10,7 +10,7 @@
 - alexa - aws alex - cocos2d - cocos2d-x - starling - haxe
 - iot - aws - lambda - iam - xna - express - markdown
 - grunt - gulp - django - bootstrap - heroku
-- browserify - a* - cocopods - bower - air
+- browserify - a* - cocopods - bower - air - createjs
 - Google analytics - gameanalytics - flurry
 - many other 3rd party libs
 
