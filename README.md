@@ -12,6 +12,7 @@
 - grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower - air - createjs
 - Google analytics - gameanalytics - flurry
+- photoshop - flashCS - eclipse 
 - many other 3rd party libs
 
 ---
@@ -30,7 +31,7 @@
 - python - bash - ssh - xml - json
 - objective-c - swift - haxe - java
 - lua - lingo - php - openGLES
-- html - html5 - xhtml
+- html - html5 - xhtml - yaml
 
 ---
 ## Published Platforms
