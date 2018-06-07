@@ -12,7 +12,7 @@
 - grunt - gulp - django - bootstrap - heroku
 - browserify - a* - cocopods - bower - air - createjs
 - Google analytics - gameanalytics - flurry
-- photoshop - flashCS - eclipse 
+- photoshop - flashCS - eclipse
 - many other 3rd party libs
 
 ---
@@ -146,6 +146,32 @@ Communications / Audio Engineering
 - relentless problem solver
 - plant based diet
 - fly fishermen
+
+---
+## References
+> [Caleb Garner](https://www.linkedin.com/in/calebgarner/)  
+> Game Producer / Owner @  Part12 Studios  
+> caleb.garner@gmail.com  
+> 615.818.8483  
+
+> [Rohit Crasta](https://www.linkedin.com/in/rohit-crasta-21b99820/)    
+> Game Designer / Programmer @ Funkitron  
+> rohitcrasta@gmail.com  
+> 516.817.8465  
+
+> [Nathan Cope](https://www.linkedin.com/in/nathancope/)  
+> Application Engineer @ dataxu  
+> nate@playgamerfame.com  
+> 781.832.0424  
+
+> [Robert Daly](https://www.linkedin.com/in/robert-daly-6617708/)    
+> Program Manager @ Rightscope LLC  
+> rightscopellc@gmail.com  
+> 425.598.3524
+
+> [Mom (Patti)](https://www.facebook.com/patti.avery.927)  
+> Cookie Baker / Quilt Maker @ Home  
+> 207.827.8931  
 
 ---
 ## Contact Info
